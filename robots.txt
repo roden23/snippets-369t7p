@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://roden23.github.io/snippets-369t7p/sitemap.xml
